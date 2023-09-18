@@ -1,0 +1,631 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695069354602,659,HTTP Request,200,OK,ThreadLoadTestRokomari 1-5,text,true,,526445,240,16,16,https://www.rokomari.com/book,222,0,149
+1695069354602,227,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-5,,true,,880,118,16,16,https://www.rokomari.com/,222,0,149
+1695069354830,431,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-5,text,true,,525565,122,16,16,https://www.rokomari.com/book,123,0,0
+1695069354494,805,HTTP Request,200,OK,ThreadLoadTestRokomari 1-3,text,true,,526427,240,17,17,https://www.rokomari.com/book,330,0,256
+1695069354494,335,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-3,,true,,868,118,17,17,https://www.rokomari.com/,330,0,256
+1695069354831,468,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-3,text,true,,525559,122,17,17,https://www.rokomari.com/book,125,0,0
+1695069354550,892,HTTP Request,200,OK,ThreadLoadTestRokomari 1-4,text,true,,526437,240,19,19,https://www.rokomari.com/book,282,0,201
+1695069354550,282,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-4,,true,,874,118,19,19,https://www.rokomari.com/,282,0,201
+1695069354832,610,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-4,text,true,,525563,122,19,19,https://www.rokomari.com/book,188,0,0
+1695069354660,1035,HTTP Request,200,OK,ThreadLoadTestRokomari 1-6,text,true,,526425,240,24,24,https://www.rokomari.com/book,164,0,91
+1695069354660,169,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-6,,true,,872,118,24,24,https://www.rokomari.com/,164,0,91
+1695069354832,863,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-6,text,true,,525553,122,24,24,https://www.rokomari.com/book,152,0,0
+1695069354772,949,HTTP Request,200,OK,ThreadLoadTestRokomari 1-8,text,true,,526446,240,24,24,https://www.rokomari.com/book,90,0,21
+1695069354772,90,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-8,,true,,876,118,24,24,https://www.rokomari.com/,90,0,21
+1695069354863,858,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-8,text,true,,525570,122,24,24,https://www.rokomari.com/book,142,0,0
+1695069354455,1466,HTTP Request,200,OK,ThreadLoadTestRokomari 1-2,text,true,,526441,240,28,28,https://www.rokomari.com/book,371,0,296
+1695069354455,374,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-2,,true,,876,118,28,28,https://www.rokomari.com/,371,0,296
+1695069354831,1090,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-2,text,true,,525565,122,28,28,https://www.rokomari.com/book,133,0,0
+1695069354999,1342,HTTP Request,200,OK,ThreadLoadTestRokomari 1-12,text,true,,526443,240,35,35,https://www.rokomari.com/book,424,0,98
+1695069354999,424,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-12,,true,,882,118,35,35,https://www.rokomari.com/,424,0,98
+1695069355423,918,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-12,text,true,,525561,122,35,35,https://www.rokomari.com/book,113,0,0
+1695069355442,1260,HTTP Request,200,OK,ThreadLoadTestRokomari 1-4,text,true,,526443,240,41,41,https://www.rokomari.com/book,294,0,0
+1695069355442,294,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-4,,true,,874,118,41,41,https://www.rokomari.com/,294,0,0
+1695069355736,966,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-4,text,true,,525569,122,41,41,https://www.rokomari.com/book,197,0,0
+1695069355696,1010,HTTP Request,200,OK,ThreadLoadTestRokomari 1-6,text,true,,526432,240,41,41,https://www.rokomari.com/book,73,0,0
+1695069355696,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-6,,true,,876,118,41,41,https://www.rokomari.com/,73,0,0
+1695069355770,936,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-6,text,true,,525556,122,41,41,https://www.rokomari.com/book,200,0,0
+1695069355721,996,HTTP Request,200,OK,ThreadLoadTestRokomari 1-8,text,true,,526443,240,42,42,https://www.rokomari.com/book,74,0,0
+1695069355721,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-8,,true,,888,118,42,42,https://www.rokomari.com/,74,0,0
+1695069355795,922,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-8,text,true,,525555,122,42,42,https://www.rokomari.com/book,180,0,0
+1695069355115,2104,HTTP Request,200,OK,ThreadLoadTestRokomari 1-14,text,true,,526437,240,50,50,https://www.rokomari.com/book,330,0,35
+1695069355115,330,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-14,,true,,878,118,50,50,https://www.rokomari.com/,330,0,35
+1695069355445,1774,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-14,text,true,,525559,122,50,50,https://www.rokomari.com/book,95,0,0
+1695069355262,1991,HTTP Request,200,OK,ThreadLoadTestRokomari 1-5,text,true,,526450,240,51,51,https://www.rokomari.com/book,73,0,0
+1695069355262,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-5,,true,,876,118,51,51,https://www.rokomari.com/,73,0,0
+1695069355335,1918,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-5,text,true,,525574,122,51,51,https://www.rokomari.com/book,155,0,0
+1695069355284,1970,HTTP Request,200,OK,ThreadLoadTestRokomari 1-17,text,true,,526429,240,51,51,https://www.rokomari.com/book,111,0,32
+1695069355284,111,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-17,,true,,882,118,51,51,https://www.rokomari.com/,111,0,32
+1695069355395,1859,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-17,text,true,,525547,122,51,51,https://www.rokomari.com/book,129,0,0
+1695069354714,2588,HTTP Request,200,OK,ThreadLoadTestRokomari 1-7,text,true,,526436,240,52,52,https://www.rokomari.com/book,110,0,37
+1695069354714,115,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-7,,true,,874,118,52,52,https://www.rokomari.com/,110,0,37
+1695069354832,2470,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-7,text,true,,525562,122,52,52,https://www.rokomari.com/book,156,0,0
+1695069356482,840,HTTP Request,200,OK,ThreadLoadTestRokomari 1-38,text,true,,526425,240,52,52,https://www.rokomari.com/book,109,0,35
+1695069356482,109,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-38,,true,,874,118,52,52,https://www.rokomari.com/,109,0,35
+1695069356591,731,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-38,text,true,,525551,122,52,52,https://www.rokomari.com/book,84,0,0
+1695069355683,1756,HTTP Request,200,OK,ThreadLoadTestRokomari 1-24,text,true,,526431,240,54,54,https://www.rokomari.com/book,632,0,318
+1695069355683,632,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-24,,true,,874,118,54,54,https://www.rokomari.com/,632,0,318
+1695069356315,1124,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-24,text,true,,525557,122,54,54,https://www.rokomari.com/book,127,0,0
+1695069355299,2219,HTTP Request,200,OK,ThreadLoadTestRokomari 1-3,text,true,,526419,240,56,56,https://www.rokomari.com/book,74,0,0
+1695069355299,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-3,,true,,872,118,56,56,https://www.rokomari.com/,74,0,0
+1695069355373,2145,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-3,text,true,,525547,122,56,56,https://www.rokomari.com/book,188,0,0
+1695069354887,2642,HTTP Request,200,OK,ThreadLoadTestRokomari 1-10,text,true,,526431,240,56,56,https://www.rokomari.com/book,93,0,16
+1695069354887,93,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-10,,true,,880,118,56,56,https://www.rokomari.com/,93,0,16
+1695069354980,2549,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-10,text,true,,525551,122,56,56,https://www.rokomari.com/book,155,0,0
+1695069356706,1685,HTTP Request,200,OK,ThreadLoadTestRokomari 1-6,text,true,,526443,240,70,70,https://www.rokomari.com/book,80,0,0
+1695069356706,80,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-6,,true,,874,118,70,70,https://www.rokomari.com/,80,0,0
+1695069356786,1605,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-6,text,true,,525569,122,70,70,https://www.rokomari.com/book,212,0,0
+1695069356316,2218,HTTP Request,200,OK,ThreadLoadTestRokomari 1-35,text,true,,526423,240,69,69,https://www.rokomari.com/book,578,0,58
+1695069356316,578,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-35,,true,,876,118,69,69,https://www.rokomari.com/,578,0,58
+1695069356894,1640,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-35,text,true,,525547,122,69,69,https://www.rokomari.com/book,128,0,0
+1695069356653,1890,HTTP Request,200,OK,ThreadLoadTestRokomari 1-41,text,true,,526431,240,69,69,https://www.rokomari.com/book,109,0,37
+1695069356653,109,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-41,,true,,876,118,69,69,https://www.rokomari.com/,109,0,37
+1695069356762,1781,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-41,text,true,,525555,122,69,69,https://www.rokomari.com/book,79,0,0
+1695069355855,2690,HTTP Request,200,OK,ThreadLoadTestRokomari 1-27,text,true,,526441,240,69,69,https://www.rokomari.com/book,1048,0,305
+1695069355855,1048,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-27,,true,,880,118,69,69,https://www.rokomari.com/,1048,0,305
+1695069356903,1642,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-27,text,true,,525561,122,69,69,https://www.rokomari.com/book,131,0,0
+1695069357518,1121,HTTP Request,200,OK,ThreadLoadTestRokomari 1-3,text,true,,526453,240,69,69,https://www.rokomari.com/book,76,0,0
+1695069357518,77,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-3,,true,,884,118,69,69,https://www.rokomari.com/,76,0,0
+1695069357595,1044,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-3,text,true,,525569,122,69,69,https://www.rokomari.com/book,118,0,0
+1695069357440,1314,HTTP Request,200,OK,ThreadLoadTestRokomari 1-24,text,true,,526429,240,68,68,https://www.rokomari.com/book,72,0,0
+1695069357440,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-24,,true,,880,118,68,68,https://www.rokomari.com/,72,0,0
+1695069357512,1242,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-24,text,true,,525549,122,68,68,https://www.rokomari.com/book,118,0,0
+1695069354943,3838,HTTP Request,200,OK,ThreadLoadTestRokomari 1-11,text,true,,526429,240,68,68,https://www.rokomari.com/book,124,0,21
+1695069354943,124,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-11,,true,,874,118,68,68,https://www.rokomari.com/,124,0,21
+1695069355067,3714,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-11,text,true,,525555,122,68,68,https://www.rokomari.com/book,746,0,0
+1695069355399,3580,HTTP Request,200,OK,ThreadLoadTestRokomari 1-19,text,true,,526423,240,68,68,https://www.rokomari.com/book,341,0,43
+1695069355399,341,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-19,,true,,872,118,68,68,https://www.rokomari.com/,341,0,43
+1695069355740,3239,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-19,text,true,,525551,122,68,68,https://www.rokomari.com/book,140,0,0
+1695069355570,3459,HTTP Request,200,OK,ThreadLoadTestRokomari 1-22,text,true,,526432,240,68,68,https://www.rokomari.com/book,813,0,734
+1695069355570,813,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-22,,true,,876,118,68,68,https://www.rokomari.com/,813,0,734
+1695069356383,2646,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-22,text,true,,525556,122,68,68,https://www.rokomari.com/book,144,0,0
+1695069356341,2882,HTTP Request,200,OK,ThreadLoadTestRokomari 1-12,text,true,,526423,240,68,68,https://www.rokomari.com/book,74,0,0
+1695069356341,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-12,,true,,872,118,68,68,https://www.rokomari.com/,74,0,0
+1695069356415,2808,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-12,text,true,,525551,122,68,68,https://www.rokomari.com/book,152,0,0
+1695069357254,2481,HTTP Request,200,OK,ThreadLoadTestRokomari 1-17,text,true,,526431,240,68,68,https://www.rokomari.com/book,290,0,0
+1695069357254,290,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-17,,true,,878,118,68,68,https://www.rokomari.com/,290,0,0
+1695069357544,2191,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-17,text,true,,525553,122,68,68,https://www.rokomari.com/book,122,0,0
+1695069356718,3657,HTTP Request,200,OK,ThreadLoadTestRokomari 1-8,text,true,,526423,240,68,68,https://www.rokomari.com/book,72,0,0
+1695069356718,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-8,,true,,874,118,68,68,https://www.rokomari.com/,72,0,0
+1695069356791,3584,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-8,text,true,,525549,122,68,68,https://www.rokomari.com/book,156,0,0
+1695069357322,3195,HTTP Request,200,OK,ThreadLoadTestRokomari 1-38,text,true,,526438,240,67,67,https://www.rokomari.com/book,1828,0,0
+1695069357322,1828,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-38,,true,,880,118,67,67,https://www.rokomari.com/,1828,0,0
+1695069359151,1366,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-38,text,true,,525558,122,67,67,https://www.rokomari.com/book,202,0,0
+1695069357563,3036,HTTP Request,200,OK,ThreadLoadTestRokomari 1-57,text,true,,526421,240,67,67,https://www.rokomari.com/book,130,0,58
+1695069357563,130,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-57,,true,,874,118,67,67,https://www.rokomari.com/,130,0,58
+1695069357693,2906,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-57,text,true,,525547,122,67,67,https://www.rokomari.com/book,86,0,0
+1695069357107,3787,HTTP Request,200,OK,ThreadLoadTestRokomari 1-49,text,true,,526443,240,67,67,https://www.rokomari.com/book,1396,0,1102
+1695069357107,1396,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-49,,true,,880,118,67,67,https://www.rokomari.com/,1396,0,1102
+1695069358503,2391,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-49,text,true,,525563,122,67,67,https://www.rokomari.com/book,130,0,0
+1695069355512,5386,HTTP Request,200,OK,ThreadLoadTestRokomari 1-21,text,true,,526427,240,67,67,https://www.rokomari.com/book,1235,0,1161
+1695069355512,1235,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-21,,true,,874,118,67,67,https://www.rokomari.com/,1235,0,1161
+1695069356747,4151,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-21,text,true,,525553,122,67,67,https://www.rokomari.com/book,75,0,0
+1695069357279,3772,HTTP Request,200,OK,ThreadLoadTestRokomari 1-52,text,true,,526423,240,67,67,https://www.rokomari.com/book,110,0,35
+1695069357279,110,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-52,,true,,876,118,67,67,https://www.rokomari.com/,110,0,35
+1695069357389,3662,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-52,text,true,,525547,122,67,67,https://www.rokomari.com/book,86,0,0
+1695069357908,3179,HTTP Request,200,OK,ThreadLoadTestRokomari 1-63,text,true,,526433,240,67,67,https://www.rokomari.com/book,108,0,34
+1695069357908,108,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-63,,true,,874,118,67,67,https://www.rokomari.com/,108,0,34
+1695069358016,3071,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-63,text,true,,525559,122,67,67,https://www.rokomari.com/book,135,0,0
+1695069357219,3874,HTTP Request,200,OK,ThreadLoadTestRokomari 1-14,text,true,,526425,240,67,67,https://www.rokomari.com/book,74,0,0
+1695069357219,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-14,,true,,876,118,67,67,https://www.rokomari.com/,74,0,0
+1695069357293,3800,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-14,text,true,,525549,122,67,67,https://www.rokomari.com/book,230,0,0
+1695069358755,2453,HTTP Request,200,OK,ThreadLoadTestRokomari 1-24,text,true,,526439,240,67,67,https://www.rokomari.com/book,292,0,0
+1695069358755,292,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-24,,true,,874,118,67,67,https://www.rokomari.com/,292,0,0
+1695069359047,2161,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-24,text,true,,525565,122,67,67,https://www.rokomari.com/book,213,0,0
+1695069356595,4709,HTTP Request,200,OK,ThreadLoadTestRokomari 1-40,text,true,,526438,240,66,66,https://www.rokomari.com/book,110,0,37
+1695069356595,110,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-40,,true,,878,118,66,66,https://www.rokomari.com/,110,0,37
+1695069356705,4599,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-40,text,true,,525560,122,66,66,https://www.rokomari.com/book,130,0,0
+1695069357302,4144,HTTP Request,200,OK,ThreadLoadTestRokomari 1-7,text,true,,526427,240,66,66,https://www.rokomari.com/book,74,0,0
+1695069357302,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-7,,true,,870,118,66,66,https://www.rokomari.com/,74,0,0
+1695069357376,4070,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-7,text,true,,525557,122,66,66,https://www.rokomari.com/book,217,0,0
+1695069357793,3689,HTTP Request,200,OK,ThreadLoadTestRokomari 1-61,text,true,,526441,240,66,66,https://www.rokomari.com/book,1755,0,1678
+1695069357793,1755,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-61,,true,,882,118,66,66,https://www.rokomari.com/,1755,0,1678
+1695069359548,1934,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-61,text,true,,525559,122,66,66,https://www.rokomari.com/book,99,0,0
+1695069356880,4663,HTTP Request,200,OK,ThreadLoadTestRokomari 1-45,text,true,,526431,240,66,66,https://www.rokomari.com/book,1195,0,1119
+1695069356880,1195,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-45,,true,,884,118,66,66,https://www.rokomari.com/,1195,0,1119
+1695069358075,3468,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-45,text,true,,525547,122,66,66,https://www.rokomari.com/book,83,0,0
+1695069357337,4285,HTTP Request,200,OK,ThreadLoadTestRokomari 1-53,text,true,,526425,240,66,66,https://www.rokomari.com/book,1185,0,1097
+1695069357337,1185,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-53,,true,,878,118,66,66,https://www.rokomari.com/,1185,0,1097
+1695069358522,3100,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-53,text,true,,525547,122,66,66,https://www.rokomari.com/book,98,0,0
+1695069358078,3781,HTTP Request,200,OK,ThreadLoadTestRokomari 1-66,text,true,,526433,240,66,66,https://www.rokomari.com/book,1934,0,302
+1695069358078,1934,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-66,,true,,880,118,66,66,https://www.rokomari.com/,1934,0,302
+1695069360012,1847,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-66,text,true,,525553,122,66,66,https://www.rokomari.com/book,132,0,0
+1695069359224,2891,HTTP Request,200,OK,ThreadLoadTestRokomari 1-12,text,true,,526435,240,66,66,https://www.rokomari.com/book,310,0,0
+1695069359224,310,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-12,,true,,878,118,66,66,https://www.rokomari.com/,310,0,0
+1695069359534,2581,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-12,text,true,,525557,122,66,66,https://www.rokomari.com/book,189,0,0
+1695069355921,6262,HTTP Request,200,OK,ThreadLoadTestRokomari 1-2,text,true,,526437,240,65,65,https://www.rokomari.com/book,742,0,0
+1695069355921,742,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-2,,true,,874,118,65,65,https://www.rokomari.com/,742,0,0
+1695069356663,5520,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-2,text,true,,525563,122,65,65,https://www.rokomari.com/book,233,0,0
+1695069357530,4805,HTTP Request,200,OK,ThreadLoadTestRokomari 1-10,text,true,,526427,240,65,65,https://www.rokomari.com/book,1876,0,0
+1695069357530,1876,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-10,,true,,876,118,65,65,https://www.rokomari.com/,1876,0,0
+1695069359406,2929,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-10,text,true,,525551,122,65,65,https://www.rokomari.com/book,150,0,0
+1695069355341,7155,HTTP Request,200,OK,ThreadLoadTestRokomari 1-18,text,true,,526440,240,65,65,https://www.rokomari.com/book,135,0,56
+1695069355341,135,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-18,,true,,878,118,65,65,https://www.rokomari.com/,135,0,56
+1695069355476,7020,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-18,text,true,,525562,122,65,65,https://www.rokomari.com/book,134,0,0
+1695069357735,4857,HTTP Request,200,OK,ThreadLoadTestRokomari 1-60,text,true,,526425,240,65,65,https://www.rokomari.com/book,3135,0,3061
+1695069357735,3135,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-60,,true,,872,118,65,65,https://www.rokomari.com/,3135,0,3061
+1695069360871,1721,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-60,text,true,,525553,122,65,65,https://www.rokomari.com/book,127,0,0
+1695069356937,5670,HTTP Request,200,OK,ThreadLoadTestRokomari 1-46,text,true,,526435,240,65,65,https://www.rokomari.com/book,871,0,798
+1695069356937,871,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-46,,true,,878,118,65,65,https://www.rokomari.com/,871,0,798
+1695069357808,4799,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-46,text,true,,525557,122,65,65,https://www.rokomari.com/book,131,0,0
+1695069357621,5281,HTTP Request,200,OK,ThreadLoadTestRokomari 1-58,text,true,,526417,240,65,65,https://www.rokomari.com/book,353,0,57
+1695069357621,353,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-58,,true,,868,118,65,65,https://www.rokomari.com/,353,0,57
+1695069357974,4928,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-58,text,true,,525549,122,65,65,https://www.rokomari.com/book,146,0,0
+1695069354829,8161,HTTP Request,200,OK,ThreadLoadTestRokomari 1-9,text,true,,526419,240,65,65,https://www.rokomari.com/book,111,0,18
+1695069354829,111,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-9,,true,,876,118,65,65,https://www.rokomari.com/,111,0,18
+1695069354940,8050,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-9,text,true,,525543,122,65,65,https://www.rokomari.com/book,183,0,0
+1695069361482,1519,HTTP Request,200,OK,ThreadLoadTestRokomari 1-61,text,true,,526423,240,65,65,https://www.rokomari.com/book,74,0,0
+1695069361482,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-61,,true,,880,118,65,65,https://www.rokomari.com/,74,0,0
+1695069361556,1445,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-61,text,true,,525543,122,65,65,https://www.rokomari.com/book,175,0,0
+1695069358980,4041,HTTP Request,200,OK,ThreadLoadTestRokomari 1-19,text,true,,526423,240,65,65,https://www.rokomari.com/book,72,0,0
+1695069358980,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-19,,true,,874,118,65,65,https://www.rokomari.com/,72,0,0
+1695069359052,3969,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-19,text,true,,525549,122,65,65,https://www.rokomari.com/book,294,0,0
+1695069357393,5748,HTTP Request,200,OK,ThreadLoadTestRokomari 1-54,text,true,,526435,240,65,65,https://www.rokomari.com/book,1381,0,1073
+1695069357393,1381,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-54,,true,,880,118,65,65,https://www.rokomari.com/,1381,0,1073
+1695069358774,4367,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-54,text,true,,525555,122,65,65,https://www.rokomari.com/book,130,0,0
+1695069358535,4694,HTTP Request,200,OK,ThreadLoadTestRokomari 1-35,text,true,,526415,240,65,65,https://www.rokomari.com/book,980,0,0
+1695069358535,980,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-35,,true,,870,118,65,65,https://www.rokomari.com/,980,0,0
+1695069359516,3713,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-35,text,true,,525545,122,65,65,https://www.rokomari.com/book,130,0,0
+1695069355912,7520,HTTP Request,200,OK,ThreadLoadTestRokomari 1-28,text,true,,526423,240,65,65,https://www.rokomari.com/book,1984,0,1665
+1695069355912,1984,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-28,,true,,876,118,65,65,https://www.rokomari.com/,1984,0,1665
+1695069357896,5536,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-28,text,true,,525547,122,65,65,https://www.rokomari.com/book,146,0,0
+1695069357253,6230,HTTP Request,200,OK,ThreadLoadTestRokomari 1-5,text,true,,526415,240,65,65,https://www.rokomari.com/book,74,0,0
+1695069357253,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-5,,true,,872,118,65,65,https://www.rokomari.com/,74,0,0
+1695069357327,6156,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-5,text,true,,525543,122,65,65,https://www.rokomari.com/book,853,0,0
+1695069357678,5865,HTTP Request,200,OK,ThreadLoadTestRokomari 1-59,text,true,,526419,240,64,64,https://www.rokomari.com/book,3120,0,3046
+1695069357678,3120,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-59,,true,,878,118,64,64,https://www.rokomari.com/,3120,0,3046
+1695069360798,2745,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-59,text,true,,525541,122,64,64,https://www.rokomari.com/book,127,0,0
+1695069358305,5463,HTTP Request,200,OK,ThreadLoadTestRokomari 1-70,text,true,,526433,240,64,64,https://www.rokomari.com/book,3480,0,3394
+1695069358305,3480,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-70,,true,,874,118,64,64,https://www.rokomari.com/,3480,0,3394
+1695069361785,1983,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-70,text,true,,525559,122,64,64,https://www.rokomari.com/book,176,0,0
+1695069356765,7040,HTTP Request,200,OK,ThreadLoadTestRokomari 1-43,text,true,,526421,240,64,64,https://www.rokomari.com/book,3356,0,3282
+1695069356765,3356,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-43,,true,,876,118,64,64,https://www.rokomari.com/,3356,0,3282
+1695069360121,3684,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-43,text,true,,525545,122,64,64,https://www.rokomari.com/book,128,0,0
+1695069359736,4085,HTTP Request,200,OK,ThreadLoadTestRokomari 1-17,text,true,,526442,240,64,64,https://www.rokomari.com/book,73,0,0
+1695069359736,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-17,,true,,876,118,64,64,https://www.rokomari.com/,73,0,0
+1695069359809,4012,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-17,text,true,,525566,122,64,64,https://www.rokomari.com/book,972,0,0
+1695069355798,8087,HTTP Request,200,OK,ThreadLoadTestRokomari 1-26,text,true,,526423,240,63,63,https://www.rokomari.com/book,114,0,36
+1695069355798,114,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-26,,true,,874,118,63,63,https://www.rokomari.com/,114,0,36
+1695069355912,7973,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-26,text,true,,525549,122,63,63,https://www.rokomari.com/book,130,0,0
+1695069358545,5447,HTTP Request,200,OK,ThreadLoadTestRokomari 1-27,text,true,,526435,240,63,63,https://www.rokomari.com/book,295,0,0
+1695069358545,295,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-27,,true,,874,118,63,63,https://www.rokomari.com/,295,0,0
+1695069358840,5152,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-27,text,true,,525561,122,63,63,https://www.rokomari.com/book,229,0,0
+1695069357965,6058,HTTP Request,200,OK,ThreadLoadTestRokomari 1-64,text,true,,526423,240,63,63,https://www.rokomari.com/book,1191,0,1117
+1695069357965,1191,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-64,,true,,872,118,63,63,https://www.rokomari.com/,1191,0,1117
+1695069359156,4867,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-64,text,true,,525551,122,63,63,https://www.rokomari.com/book,143,0,0
+1695069357165,6859,HTTP Request,200,OK,ThreadLoadTestRokomari 1-50,text,true,,526421,240,63,63,https://www.rokomari.com/book,4044,0,3283
+1695069357165,4044,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-50,,true,,876,118,63,63,https://www.rokomari.com/,4044,0,3283
+1695069361210,2814,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-50,text,true,,525545,122,63,63,https://www.rokomari.com/book,127,0,0
+1695069362592,1916,HTTP Request,200,OK,ThreadLoadTestRokomari 1-60,text,true,,526447,240,63,63,https://www.rokomari.com/book,324,0,0
+1695069362592,324,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-60,,true,,878,118,63,63,https://www.rokomari.com/,324,0,0
+1695069362916,1592,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-60,text,true,,525569,122,63,63,https://www.rokomari.com/book,214,0,0
+1695069360895,3614,HTTP Request,200,OK,ThreadLoadTestRokomari 1-49,text,true,,526457,240,63,63,https://www.rokomari.com/book,73,0,0
+1695069360895,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-49,,true,,878,118,63,63,https://www.rokomari.com/,73,0,0
+1695069360968,3541,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-49,text,true,,525579,122,63,63,https://www.rokomari.com/book,207,0,0
+1695069358782,5760,HTTP Request,200,OK,ThreadLoadTestRokomari 1-11,text,true,,526419,240,63,63,https://www.rokomari.com/book,73,0,0
+1695069358782,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-11,,true,,874,118,63,63,https://www.rokomari.com/,73,0,0
+1695069358855,5687,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-11,text,true,,525545,122,63,63,https://www.rokomari.com/book,273,0,0
+1695069355171,9512,HTTP Request,200,OK,ThreadLoadTestRokomari 1-15,text,true,,526421,240,63,63,https://www.rokomari.com/book,188,0,103
+1695069355171,188,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-15,,true,,874,118,63,63,https://www.rokomari.com/,188,0,103
+1695069355359,9324,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-15,text,true,,525547,122,63,63,https://www.rokomari.com/book,83,0,0
+1695069358543,6199,HTTP Request,200,OK,ThreadLoadTestRokomari 1-41,text,true,,526435,240,63,63,https://www.rokomari.com/book,73,0,0
+1695069358543,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-41,,true,,880,118,63,63,https://www.rokomari.com/,73,0,0
+1695069358616,6126,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-41,text,true,,525555,122,63,63,https://www.rokomari.com/book,279,0,0
+1695069361543,3228,HTTP Request,200,OK,ThreadLoadTestRokomari 1-45,text,true,,526451,240,63,63,https://www.rokomari.com/book,77,0,0
+1695069361543,77,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-45,,true,,876,118,63,63,https://www.rokomari.com/,77,0,0
+1695069361620,3151,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-45,text,true,,525575,122,63,63,https://www.rokomari.com/book,284,0,0
+1695069361860,3378,HTTP Request,200,OK,ThreadLoadTestRokomari 1-66,text,true,,526452,240,63,63,https://www.rokomari.com/book,72,0,0
+1695069361860,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-66,,true,,878,118,63,63,https://www.rokomari.com/,72,0,0
+1695069361932,3306,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-66,text,true,,525574,122,63,63,https://www.rokomari.com/book,256,0,0
+1695069361447,3839,HTTP Request,200,OK,ThreadLoadTestRokomari 1-7,text,true,,526435,240,63,63,https://www.rokomari.com/book,73,0,0
+1695069361447,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-7,,true,,876,118,63,63,https://www.rokomari.com/,73,0,0
+1695069361520,3766,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-7,text,true,,525559,122,63,63,https://www.rokomari.com/book,183,0,0
+1695069358248,7080,HTTP Request,200,OK,ThreadLoadTestRokomari 1-69,text,true,,526431,240,62,62,https://www.rokomari.com/book,1147,0,1074
+1695069358248,1147,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-69,,true,,884,118,62,62,https://www.rokomari.com/,1147,0,1074
+1695069359395,5933,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-69,text,true,,525547,122,62,62,https://www.rokomari.com/book,323,0,0
+1695069363001,2349,HTTP Request,200,OK,ThreadLoadTestRokomari 1-61,text,true,,526419,240,62,62,https://www.rokomari.com/book,78,0,0
+1695069363001,78,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-61,,true,,872,118,62,62,https://www.rokomari.com/,78,0,0
+1695069363079,2271,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-61,text,true,,525547,122,62,62,https://www.rokomari.com/book,199,0,0
+1695069362902,2534,HTTP Request,200,OK,ThreadLoadTestRokomari 1-58,text,true,,526425,240,61,61,https://www.rokomari.com/book,83,0,0
+1695069362902,83,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-58,,true,,878,118,61,61,https://www.rokomari.com/,83,0,0
+1695069362985,2451,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-58,text,true,,525547,122,61,61,https://www.rokomari.com/book,206,0,0
+1695069359029,6856,HTTP Request,200,OK,ThreadLoadTestRokomari 1-22,text,true,,526435,240,61,61,https://www.rokomari.com/book,71,0,0
+1695069359029,71,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-22,,true,,876,118,61,61,https://www.rokomari.com/,71,0,0
+1695069359101,6784,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-22,text,true,,525559,122,61,61,https://www.rokomari.com/book,306,0,0
+1695069362497,3653,HTTP Request,200,OK,ThreadLoadTestRokomari 1-18,text,true,,526429,240,61,61,https://www.rokomari.com/book,77,0,0
+1695069362497,77,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-18,,true,,876,118,61,61,https://www.rokomari.com/,77,0,0
+1695069362575,3575,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-18,text,true,,525553,122,61,61,https://www.rokomari.com/book,180,0,0
+1695069357506,8670,HTTP Request,200,OK,ThreadLoadTestRokomari 1-56,text,true,,526448,240,61,61,https://www.rokomari.com/book,6278,0,5141
+1695069357506,6278,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-56,,true,,880,118,61,61,https://www.rokomari.com/,6278,0,5141
+1695069363784,2392,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-56,text,true,,525568,122,61,61,https://www.rokomari.com/book,130,0,0
+1695069361087,5106,HTTP Request,200,OK,ThreadLoadTestRokomari 1-63,text,true,,526444,240,61,61,https://www.rokomari.com/book,74,0,0
+1695069361087,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-63,,true,,886,118,61,61,https://www.rokomari.com/,74,0,0
+1695069361162,5031,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-63,text,true,,525558,122,61,61,https://www.rokomari.com/book,241,0,0
+1695069361051,5328,HTTP Request,200,OK,ThreadLoadTestRokomari 1-52,text,true,,526439,240,61,61,https://www.rokomari.com/book,516,0,0
+1695069361051,516,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-52,,true,,878,118,61,61,https://www.rokomari.com/,516,0,0
+1695069361567,4812,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-52,text,true,,525561,122,61,61,https://www.rokomari.com/book,284,0,0
+1695069362336,4098,HTTP Request,200,OK,ThreadLoadTestRokomari 1-10,text,true,,526425,240,61,61,https://www.rokomari.com/book,294,0,0
+1695069362336,294,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-10,,true,,876,118,61,61,https://www.rokomari.com/,294,0,0
+1695069362630,3804,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-10,text,true,,525549,122,61,61,https://www.rokomari.com/book,286,0,0
+1695069364023,2465,HTTP Request,200,OK,ThreadLoadTestRokomari 1-64,text,true,,526432,240,60,60,https://www.rokomari.com/book,89,0,0
+1695069364023,89,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-64,,true,,872,118,60,60,https://www.rokomari.com/,89,0,0
+1695069364112,2376,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-64,text,true,,525560,122,60,60,https://www.rokomari.com/book,214,0,0
+1695069355227,11392,HTTP Request,200,OK,ThreadLoadTestRokomari 1-16,text,true,,526435,240,60,60,https://www.rokomari.com/book,9123,0,9050
+1695069355227,9123,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-16,,true,,870,118,60,60,https://www.rokomari.com/,9123,0,9050
+1695069364350,2269,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-16,text,true,,525565,122,60,60,https://www.rokomari.com/book,135,0,0
+1695069363433,3367,HTTP Request,200,OK,ThreadLoadTestRokomari 1-28,text,true,,526427,240,60,60,https://www.rokomari.com/book,72,0,0
+1695069363433,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-28,,true,,872,118,60,60,https://www.rokomari.com/,72,0,0
+1695069363505,3295,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-28,text,true,,525555,122,60,60,https://www.rokomari.com/book,229,0,0
+1695069363768,3089,HTTP Request,200,OK,ThreadLoadTestRokomari 1-70,text,true,,526425,240,60,60,https://www.rokomari.com/book,311,0,0
+1695069363768,311,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-70,,true,,874,118,60,60,https://www.rokomari.com/,311,0,0
+1695069364079,2778,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-70,text,true,,525551,122,60,60,https://www.rokomari.com/book,182,0,0
+1695069364508,2664,HTTP Request,200,OK,ThreadLoadTestRokomari 1-60,text,true,,526421,240,60,60,https://www.rokomari.com/book,311,0,0
+1695069364508,311,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-60,,true,,870,118,60,60,https://www.rokomari.com/,311,0,0
+1695069364819,2353,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-60,text,true,,525551,122,60,60,https://www.rokomari.com/book,149,0,0
+1695069361622,5722,HTTP Request,200,OK,ThreadLoadTestRokomari 1-53,text,true,,526434,240,59,59,https://www.rokomari.com/book,79,0,0
+1695069361622,79,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-53,,true,,878,118,59,59,https://www.rokomari.com/,79,0,0
+1695069361701,5643,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-53,text,true,,525556,122,59,59,https://www.rokomari.com/book,239,0,0
+1695069361093,6369,HTTP Request,200,OK,ThreadLoadTestRokomari 1-14,text,true,,526425,240,59,59,https://www.rokomari.com/book,72,0,0
+1695069361093,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-14,,true,,876,118,59,59,https://www.rokomari.com/,72,0,0
+1695069361166,6296,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-14,text,true,,525549,122,59,59,https://www.rokomari.com/book,323,0,0
+1695069356425,11064,HTTP Request,200,OK,ThreadLoadTestRokomari 1-37,text,true,,526433,240,58,58,https://www.rokomari.com/book,1399,0,1105
+1695069356425,1399,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-37,,true,,876,118,58,58,https://www.rokomari.com/,1399,0,1105
+1695069357824,9665,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-37,text,true,,525557,122,58,58,https://www.rokomari.com/book,205,0,0
+1695069364024,3483,HTTP Request,200,OK,ThreadLoadTestRokomari 1-50,text,true,,526433,240,58,58,https://www.rokomari.com/book,87,0,0
+1695069364024,87,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-50,,true,,874,118,58,58,https://www.rokomari.com/,87,0,0
+1695069364111,3396,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-50,text,true,,525559,122,58,58,https://www.rokomari.com/book,173,0,0
+1695069358193,9323,HTTP Request,200,OK,ThreadLoadTestRokomari 1-68,text,true,,526437,240,58,58,https://www.rokomari.com/book,1194,0,1122
+1695069358193,1194,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-68,,true,,874,118,58,58,https://www.rokomari.com/,1194,0,1122
+1695069359388,8128,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-68,text,true,,525563,122,58,58,https://www.rokomari.com/book,144,0,0
+1695069356709,10938,HTTP Request,200,OK,ThreadLoadTestRokomari 1-42,text,true,,526425,240,58,58,https://www.rokomari.com/book,107,0,35
+1695069356709,107,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-42,,true,,872,118,58,58,https://www.rokomari.com/,107,0,35
+1695069356816,10831,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-42,text,true,,525553,122,58,58,https://www.rokomari.com/book,128,0,0
+1695069360600,7098,HTTP Request,200,OK,ThreadLoadTestRokomari 1-57,text,true,,526429,240,58,58,https://www.rokomari.com/book,74,0,0
+1695069360600,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-57,,true,,876,118,58,58,https://www.rokomari.com/,74,0,0
+1695069360674,7024,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-57,text,true,,525553,122,58,58,https://www.rokomari.com/book,210,0,0
+1695069357222,10537,HTTP Request,200,OK,ThreadLoadTestRokomari 1-51,text,true,,526434,240,58,58,https://www.rokomari.com/book,8424,0,1857
+1695069357222,8424,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-51,,true,,876,118,58,58,https://www.rokomari.com/,8424,0,1857
+1695069365646,2113,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-51,text,true,,525558,122,58,58,https://www.rokomari.com/book,161,0,0
+1695069356141,11698,HTTP Request,200,OK,ThreadLoadTestRokomari 1-32,text,true,,526444,240,58,58,https://www.rokomari.com/book,9362,0,9289
+1695069356141,9362,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-32,,true,,876,118,58,58,https://www.rokomari.com/,9362,0,9289
+1695069365504,2335,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-32,text,true,,525568,122,58,58,https://www.rokomari.com/book,181,0,0
+1695069356083,11819,HTTP Request,200,OK,ThreadLoadTestRokomari 1-31,text,true,,526420,240,58,58,https://www.rokomari.com/book,1356,0,1064
+1695069356083,1356,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-31,,true,,870,118,58,58,https://www.rokomari.com/,1356,0,1064
+1695069357439,10463,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-31,text,true,,525550,122,58,58,https://www.rokomari.com/book,98,0,0
+1695069366176,2376,HTTP Request,200,OK,ThreadLoadTestRokomari 1-56,text,true,,526423,240,58,58,https://www.rokomari.com/book,311,0,0
+1695069366176,311,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-56,,true,,872,118,58,58,https://www.rokomari.com/,311,0,0
+1695069366487,2065,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-56,text,true,,525551,122,58,58,https://www.rokomari.com/book,226,0,0
+1695069362991,5598,HTTP Request,200,OK,ThreadLoadTestRokomari 1-9,text,true,,526438,240,58,58,https://www.rokomari.com/book,84,0,0
+1695069362991,84,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-9,,true,,874,118,58,58,https://www.rokomari.com/,84,0,0
+1695069363075,5514,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-9,text,true,,525564,122,58,58,https://www.rokomari.com/book,280,0,0
+1695069355968,12643,HTTP Request,200,OK,ThreadLoadTestRokomari 1-29,text,true,,526433,240,58,58,https://www.rokomari.com/book,9573,0,9059
+1695069355968,9573,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-29,,true,,878,118,58,58,https://www.rokomari.com/,9573,0,9059
+1695069365541,3070,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-29,text,true,,525555,122,58,58,https://www.rokomari.com/book,128,0,0
+1695069362608,6540,HTTP Request,200,OK,ThreadLoadTestRokomari 1-46,text,true,,526429,240,58,58,https://www.rokomari.com/book,82,0,0
+1695069362608,82,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-46,,true,,874,118,58,58,https://www.rokomari.com/,82,0,0
+1695069362690,6458,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-46,text,true,,525555,122,58,58,https://www.rokomari.com/book,367,0,0
+1695069360899,8289,HTTP Request,200,OK,ThreadLoadTestRokomari 1-21,text,true,,526442,240,58,58,https://www.rokomari.com/book,298,0,0
+1695069360899,298,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-21,,true,,878,118,58,58,https://www.rokomari.com/,298,0,0
+1695069361198,7990,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-21,text,true,,525564,122,58,58,https://www.rokomari.com/book,298,0,0
+1695069365328,4006,HTTP Request,200,OK,ThreadLoadTestRokomari 1-69,text,true,,526437,240,58,58,https://www.rokomari.com/book,294,0,0
+1695069365328,294,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-69,,true,,872,118,58,58,https://www.rokomari.com/,294,0,0
+1695069365622,3712,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-69,text,true,,525565,122,58,58,https://www.rokomari.com/book,288,0,0
+1695069366619,2729,HTTP Request,200,OK,ThreadLoadTestRokomari 1-16,text,true,,526415,240,58,58,https://www.rokomari.com/book,79,0,0
+1695069366619,79,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-16,,true,,868,118,58,58,https://www.rokomari.com/,79,0,0
+1695069366698,2650,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-16,text,true,,525547,122,58,58,https://www.rokomari.com/book,233,0,0
+1695069365436,3978,HTTP Request,200,OK,ThreadLoadTestRokomari 1-58,text,true,,526431,240,58,58,https://www.rokomari.com/book,306,0,0
+1695069365436,306,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-58,,true,,884,118,58,58,https://www.rokomari.com/,306,0,0
+1695069365742,3672,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-58,text,true,,525547,122,58,58,https://www.rokomari.com/book,231,0,0
+1695069367759,1685,HTTP Request,200,OK,ThreadLoadTestRokomari 1-51,text,true,,526442,240,57,57,https://www.rokomari.com/book,76,0,0
+1695069367759,76,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-51,,true,,878,118,57,57,https://www.rokomari.com/,76,0,0
+1695069367835,1609,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-51,text,true,,525564,122,57,57,https://www.rokomari.com/book,121,0,0
+1695069367839,1617,HTTP Request,200,OK,ThreadLoadTestRokomari 1-32,text,true,,526448,240,57,57,https://www.rokomari.com/book,81,0,0
+1695069367839,81,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-32,,true,,876,118,57,57,https://www.rokomari.com/,81,0,0
+1695069367920,1536,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-32,text,true,,525572,122,57,57,https://www.rokomari.com/book,202,0,0
+1695069364772,4705,HTTP Request,200,OK,ThreadLoadTestRokomari 1-45,text,true,,526427,240,57,57,https://www.rokomari.com/book,74,0,0
+1695069364772,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-45,,true,,872,118,57,57,https://www.rokomari.com/,74,0,0
+1695069364846,4631,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-45,text,true,,525555,122,57,57,https://www.rokomari.com/book,208,0,0
+1695069363230,6345,HTTP Request,200,OK,ThreadLoadTestRokomari 1-35,text,true,,526439,240,56,56,https://www.rokomari.com/book,77,0,0
+1695069363230,77,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-35,,true,,876,118,56,56,https://www.rokomari.com/,77,0,0
+1695069363307,6268,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-35,text,true,,525563,122,56,56,https://www.rokomari.com/book,379,0,0
+1695069363021,6636,HTTP Request,200,OK,ThreadLoadTestRokomari 1-19,text,true,,526431,240,55,55,https://www.rokomari.com/book,775,0,0
+1695069363021,775,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-19,,true,,878,118,55,55,https://www.rokomari.com/,775,0,0
+1695069363796,5861,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-19,text,true,,525553,122,55,55,https://www.rokomari.com/book,422,0,0
+1695069364509,5250,HTTP Request,200,OK,ThreadLoadTestRokomari 1-49,text,true,,526443,240,54,54,https://www.rokomari.com/book,72,0,0
+1695069364509,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-49,,true,,878,118,54,54,https://www.rokomari.com/,72,0,0
+1695069364581,5178,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-49,text,true,,525565,122,54,54,https://www.rokomari.com/book,329,0,0
+1695069367489,2274,HTTP Request,200,OK,ThreadLoadTestRokomari 1-37,text,true,,526436,240,53,53,https://www.rokomari.com/book,74,0,0
+1695069367489,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-37,,true,,876,118,53,53,https://www.rokomari.com/,74,0,0
+1695069367563,2200,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-37,text,true,,525560,122,53,53,https://www.rokomari.com/book,213,0,0
+1695069364542,5306,HTTP Request,200,OK,ThreadLoadTestRokomari 1-11,text,true,,526428,240,53,53,https://www.rokomari.com/book,73,0,0
+1695069364542,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-11,,true,,876,118,53,53,https://www.rokomari.com/,73,0,0
+1695069364615,5233,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-11,text,true,,525552,122,53,53,https://www.rokomari.com/book,334,0,0
+1695069361304,8680,HTTP Request,200,OK,ThreadLoadTestRokomari 1-40,text,true,,526438,240,52,52,https://www.rokomari.com/book,334,0,0
+1695069361304,334,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-40,,true,,874,118,52,52,https://www.rokomari.com/,334,0,0
+1695069361638,8346,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-40,text,true,,525564,122,52,52,https://www.rokomari.com/book,294,0,0
+1695069358135,11936,HTTP Request,200,OK,ThreadLoadTestRokomari 1-67,text,true,,526431,240,52,52,https://www.rokomari.com/book,9397,0,9108
+1695069358135,9397,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-67,,true,,874,118,52,52,https://www.rokomari.com/,9397,0,9108
+1695069367532,2539,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-67,text,true,,525557,122,52,52,https://www.rokomari.com/book,130,0,0
+1695069355627,14531,HTTP Request,200,OK,ThreadLoadTestRokomari 1-23,text,true,,526439,240,52,52,https://www.rokomari.com/book,181,0,95
+1695069355627,181,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-23,,true,,880,118,52,52,https://www.rokomari.com/,181,0,95
+1695069355808,14350,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-23,text,true,,525559,122,52,52,https://www.rokomari.com/book,158,0,0
+1695069366800,3491,HTTP Request,200,OK,ThreadLoadTestRokomari 1-28,text,true,,526455,240,52,52,https://www.rokomari.com/book,85,0,0
+1695069366800,85,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-28,,true,,884,118,52,52,https://www.rokomari.com/,85,0,0
+1695069366886,3405,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-28,text,true,,525571,122,52,52,https://www.rokomari.com/book,282,0,0
+1695069363543,6832,HTTP Request,200,OK,ThreadLoadTestRokomari 1-59,text,true,,526421,240,51,51,https://www.rokomari.com/book,320,0,0
+1695069363543,320,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-59,,true,,870,118,51,51,https://www.rokomari.com/,320,0,0
+1695069363863,6512,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-59,text,true,,525551,122,51,51,https://www.rokomari.com/book,259,0,0
+1695069368611,1902,HTTP Request,200,OK,ThreadLoadTestRokomari 1-29,text,true,,526427,240,51,51,https://www.rokomari.com/book,79,0,0
+1695069368611,79,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-29,,true,,876,118,51,51,https://www.rokomari.com/,79,0,0
+1695069368690,1823,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-29,text,true,,525551,122,51,51,https://www.rokomari.com/book,249,0,0
+1695069356025,14560,HTTP Request,200,OK,ThreadLoadTestRokomari 1-30,text,true,,526449,240,51,51,https://www.rokomari.com/book,863,0,788
+1695069356025,863,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-30,,true,,888,118,51,51,https://www.rokomari.com/,863,0,788
+1695069356888,13697,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-30,text,true,,525561,122,51,51,https://www.rokomari.com/book,133,0,0
+1695069367699,3028,HTTP Request,200,OK,ThreadLoadTestRokomari 1-57,text,true,,526441,240,51,51,https://www.rokomari.com/book,74,0,0
+1695069367699,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-57,,true,,876,118,51,51,https://www.rokomari.com/,74,0,0
+1695069367773,2954,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-57,text,true,,525565,122,51,51,https://www.rokomari.com/book,258,0,0
+1695069356823,13998,HTTP Request,200,OK,ThreadLoadTestRokomari 1-44,text,true,,526421,240,50,50,https://www.rokomari.com/book,9365,0,9290
+1695069356823,9365,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-44,,true,,876,118,50,50,https://www.rokomari.com/,9365,0,9290
+1695069366188,4633,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-44,text,true,,525545,122,50,50,https://www.rokomari.com/book,129,0,0
+1695069365886,5111,HTTP Request,200,OK,ThreadLoadTestRokomari 1-22,text,true,,526431,240,50,50,https://www.rokomari.com/book,72,0,0
+1695069365886,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-22,,true,,870,118,50,50,https://www.rokomari.com/,72,0,0
+1695069365958,5039,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-22,text,true,,525561,122,50,50,https://www.rokomari.com/book,339,0,0
+1695069366857,4157,HTTP Request,200,OK,ThreadLoadTestRokomari 1-70,text,true,,526427,240,49,49,https://www.rokomari.com/book,1214,0,0
+1695069366857,1214,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-70,,true,,874,118,49,49,https://www.rokomari.com/,1214,0,0
+1695069368071,2943,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-70,text,true,,525553,122,49,49,https://www.rokomari.com/book,397,0,0
+1695069369444,1592,HTTP Request,200,OK,ThreadLoadTestRokomari 1-51,text,true,,526447,240,48,48,https://www.rokomari.com/book,72,0,0
+1695069369444,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-51,,true,,876,118,48,48,https://www.rokomari.com/,72,0,0
+1695069369516,1520,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-51,text,true,,525571,122,48,48,https://www.rokomari.com/book,210,0,0
+1695069367903,3322,HTTP Request,200,OK,ThreadLoadTestRokomari 1-31,text,true,,526441,240,47,47,https://www.rokomari.com/book,1053,0,0
+1695069367903,1053,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-31,,true,,870,118,47,47,https://www.rokomari.com/,1053,0,0
+1695069368956,2269,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-31,text,true,,525571,122,47,47,https://www.rokomari.com/book,302,0,0
+1695069363885,7352,HTTP Request,200,OK,ThreadLoadTestRokomari 1-26,text,true,,526436,240,47,47,https://www.rokomari.com/book,73,0,0
+1695069363885,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-26,,true,,880,118,47,47,https://www.rokomari.com/,73,0,0
+1695069363958,7279,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-26,text,true,,525556,122,47,47,https://www.rokomari.com/book,269,0,0
+1695069370071,1182,HTTP Request,200,OK,ThreadLoadTestRokomari 1-67,text,true,,526427,240,47,47,https://www.rokomari.com/book,318,0,0
+1695069370071,318,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-67,,true,,874,118,47,47,https://www.rokomari.com/,318,0,0
+1695069370389,864,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-67,text,true,,525553,122,47,47,https://www.rokomari.com/book,219,0,0
+1695069368552,2709,HTTP Request,200,OK,ThreadLoadTestRokomari 1-56,text,true,,526440,240,47,47,https://www.rokomari.com/book,295,0,0
+1695069368552,295,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-56,,true,,872,118,47,47,https://www.rokomari.com/,295,0,0
+1695069368847,2414,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-56,text,true,,525568,122,47,47,https://www.rokomari.com/book,364,0,0
+1695069366489,4858,HTTP Request,200,OK,ThreadLoadTestRokomari 1-64,text,true,,526450,240,46,46,https://www.rokomari.com/book,304,0,0
+1695069366489,304,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-64,,true,,882,118,46,46,https://www.rokomari.com/,304,0,0
+1695069366793,4554,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-64,text,true,,525568,122,46,46,https://www.rokomari.com/book,291,0,0
+1695069363805,7625,HTTP Request,200,OK,ThreadLoadTestRokomari 1-43,text,true,,526437,240,45,45,https://www.rokomari.com/book,327,0,0
+1695069363805,327,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-43,,true,,880,118,45,45,https://www.rokomari.com/,327,0,0
+1695069364132,7298,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-43,text,true,,525557,122,45,45,https://www.rokomari.com/book,349,0,0
+1695069355455,16108,HTTP Request,200,OK,ThreadLoadTestRokomari 1-20,text,true,,526433,240,45,45,https://www.rokomari.com/book,9446,0,9368
+1695069355455,9446,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-20,,true,,872,118,45,45,https://www.rokomari.com/,9446,0,9368
+1695069364901,6662,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-20,text,true,,525561,122,45,45,https://www.rokomari.com/book,160,0,0
+1695069366150,5639,HTTP Request,200,OK,ThreadLoadTestRokomari 1-18,text,true,,526441,240,45,45,https://www.rokomari.com/book,314,0,0
+1695069366150,314,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-18,,true,,882,118,45,45,https://www.rokomari.com/,314,0,0
+1695069366464,5325,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-18,text,true,,525559,122,45,45,https://www.rokomari.com/book,316,0,0
+1695069369456,2334,HTTP Request,200,OK,ThreadLoadTestRokomari 1-32,text,true,,526435,240,45,45,https://www.rokomari.com/book,293,0,0
+1695069369456,293,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-32,,true,,876,118,45,45,https://www.rokomari.com/,293,0,0
+1695069369749,2041,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-32,text,true,,525559,122,45,45,https://www.rokomari.com/book,199,0,0
+1695069363141,8668,HTTP Request,200,OK,ThreadLoadTestRokomari 1-54,text,true,,526435,240,43,43,https://www.rokomari.com/book,77,0,0
+1695069363141,77,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-54,,true,,870,118,43,43,https://www.rokomari.com/,77,0,0
+1695069363218,8591,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-54,text,true,,525565,122,43,43,https://www.rokomari.com/book,418,0,0
+1695069356994,14874,HTTP Request,200,OK,ThreadLoadTestRokomari 1-47,text,true,,526445,240,43,43,https://www.rokomari.com/book,14092,0,14019
+1695069356994,14092,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-47,,true,,882,118,43,43,https://www.rokomari.com/,14092,0,14019
+1695069371086,782,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-47,text,true,,525563,122,43,43,https://www.rokomari.com/book,134,0,0
+1695069365238,6728,HTTP Request,200,OK,ThreadLoadTestRokomari 1-66,text,true,,526429,240,43,43,https://www.rokomari.com/book,1175,0,0
+1695069365238,1175,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-66,,true,,874,118,43,43,https://www.rokomari.com/,1175,0,0
+1695069366413,5553,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-66,text,true,,525555,122,43,43,https://www.rokomari.com/book,313,0,0
+1695069366195,5780,HTTP Request,200,OK,ThreadLoadTestRokomari 1-63,text,true,,526429,240,42,42,https://www.rokomari.com/book,84,0,0
+1695069366195,84,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-63,,true,,876,118,42,42,https://www.rokomari.com/,84,0,0
+1695069366279,5696,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-63,text,true,,525553,122,42,42,https://www.rokomari.com/book,202,0,0
+1695069369348,2632,HTTP Request,200,OK,ThreadLoadTestRokomari 1-16,text,true,,526431,240,41,41,https://www.rokomari.com/book,74,0,0
+1695069369348,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-16,,true,,876,118,41,41,https://www.rokomari.com/,74,0,0
+1695069369422,2558,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-16,text,true,,525555,122,41,41,https://www.rokomari.com/book,215,0,0
+1695069367516,4544,HTTP Request,200,OK,ThreadLoadTestRokomari 1-68,text,true,,526437,240,40,40,https://www.rokomari.com/book,523,0,0
+1695069367516,523,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-68,,true,,874,118,40,40,https://www.rokomari.com/,523,0,0
+1695069368039,4021,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-68,text,true,,525563,122,40,40,https://www.rokomari.com/book,325,0,0
+1695069370513,1597,HTTP Request,200,OK,ThreadLoadTestRokomari 1-29,text,true,,526435,240,40,40,https://www.rokomari.com/book,72,0,0
+1695069370513,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-29,,true,,880,118,40,40,https://www.rokomari.com/,72,0,0
+1695069370585,1525,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-29,text,true,,525555,122,40,40,https://www.rokomari.com/book,210,0,0
+1695069369764,2452,HTTP Request,200,OK,ThreadLoadTestRokomari 1-37,text,true,,526433,240,39,39,https://www.rokomari.com/book,73,0,0
+1695069369764,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-37,,true,,876,118,39,39,https://www.rokomari.com/,73,0,0
+1695069369837,2379,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-37,text,true,,525557,122,39,39,https://www.rokomari.com/book,223,0,0
+1695069355059,17211,HTTP Request,200,OK,ThreadLoadTestRokomari 1-13,text,true,,526423,240,38,38,https://www.rokomari.com/book,15915,0,15836
+1695069355059,15915,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-13,,true,,872,118,38,38,https://www.rokomari.com/,15915,0,15836
+1695069370974,1296,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-13,text,true,,525551,122,38,38,https://www.rokomari.com/book,135,0,0
+1695069371868,487,HTTP Request,200,OK,ThreadLoadTestRokomari 1-47,text,true,,526442,240,38,38,https://www.rokomari.com/book,75,0,0
+1695069371868,75,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-47,,true,,878,118,38,38,https://www.rokomari.com/,75,0,0
+1695069371943,412,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-47,text,true,,525564,122,38,38,https://www.rokomari.com/book,106,0,0
+1695069371253,1134,HTTP Request,200,OK,ThreadLoadTestRokomari 1-67,text,true,,526445,240,38,38,https://www.rokomari.com/book,92,0,0
+1695069371253,92,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-67,,true,,878,118,38,38,https://www.rokomari.com/,92,0,0
+1695069371345,1042,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-67,text,true,,525567,122,38,38,https://www.rokomari.com/book,158,0,0
+1695069364742,7680,HTTP Request,200,OK,ThreadLoadTestRokomari 1-41,text,true,,526451,240,37,37,https://www.rokomari.com/book,310,0,0
+1695069364742,310,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-41,,true,,880,118,37,37,https://www.rokomari.com/,310,0,0
+1695069365052,7370,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-41,text,true,,525571,122,37,37,https://www.rokomari.com/book,259,0,0
+1695069370586,1838,HTTP Request,200,OK,ThreadLoadTestRokomari 1-30,text,true,,526423,240,36,36,https://www.rokomari.com/book,81,0,0
+1695069370586,81,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-30,,true,,874,118,36,36,https://www.rokomari.com/,81,0,0
+1695069370667,1757,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-30,text,true,,525549,122,36,36,https://www.rokomari.com/book,261,0,0
+1695069367507,5002,HTTP Request,200,OK,ThreadLoadTestRokomari 1-50,text,true,,526425,240,36,36,https://www.rokomari.com/book,299,0,0
+1695069367507,299,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-50,,true,,870,118,36,36,https://www.rokomari.com/,299,0,0
+1695069367806,4703,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-50,text,true,,525555,122,36,36,https://www.rokomari.com/book,496,0,0
+1695069368590,4162,HTTP Request,200,OK,ThreadLoadTestRokomari 1-9,text,true,,526423,240,35,35,https://www.rokomari.com/book,74,0,0
+1695069368590,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-9,,true,,876,118,35,35,https://www.rokomari.com/,74,0,0
+1695069368664,4088,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-9,text,true,,525547,122,35,35,https://www.rokomari.com/book,287,0,0
+1695069372355,431,HTTP Request,200,OK,ThreadLoadTestRokomari 1-47,text,true,,526433,240,34,34,https://www.rokomari.com/book,65,0,0
+1695069372355,65,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-47,,true,,876,118,34,34,https://www.rokomari.com/,65,0,0
+1695069372420,366,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-47,text,true,,525557,122,34,34,https://www.rokomari.com/book,140,0,0
+1695069366379,6467,HTTP Request,200,OK,ThreadLoadTestRokomari 1-52,text,true,,526427,240,33,33,https://www.rokomari.com/book,73,0,0
+1695069366379,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-52,,true,,878,118,33,33,https://www.rokomari.com/,73,0,0
+1695069366452,6394,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-52,text,true,,525549,122,33,33,https://www.rokomari.com/book,298,0,0
+1695069364684,8173,HTTP Request,200,OK,ThreadLoadTestRokomari 1-15,text,true,,526423,240,32,32,https://www.rokomari.com/book,299,0,0
+1695069364684,299,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-15,,true,,874,118,32,32,https://www.rokomari.com/,299,0,0
+1695069364983,7874,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-15,text,true,,525549,122,32,32,https://www.rokomari.com/book,378,0,0
+1695069371225,1688,HTTP Request,200,OK,ThreadLoadTestRokomari 1-31,text,true,,526427,240,32,32,https://www.rokomari.com/book,73,0,0
+1695069371225,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-31,,true,,876,118,32,32,https://www.rokomari.com/,73,0,0
+1695069371298,1615,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-31,text,true,,525551,122,32,32,https://www.rokomari.com/book,195,0,0
+1695069355741,17175,HTTP Request,200,OK,ThreadLoadTestRokomari 1-25,text,true,,526425,240,31,31,https://www.rokomari.com/book,111,0,35
+1695069355741,111,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-25,,true,,878,118,31,31,https://www.rokomari.com/,111,0,35
+1695069355852,17064,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-25,text,true,,525547,122,31,31,https://www.rokomari.com/book,127,0,0
+1695069369334,3622,HTTP Request,200,OK,ThreadLoadTestRokomari 1-69,text,true,,526417,240,31,31,https://www.rokomari.com/book,73,0,0
+1695069369334,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-69,,true,,872,118,31,31,https://www.rokomari.com/,73,0,0
+1695069369407,3549,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-69,text,true,,525545,122,31,31,https://www.rokomari.com/book,171,0,0
+1695069372424,613,HTTP Request,200,OK,ThreadLoadTestRokomari 1-30,text,true,,526429,240,30,30,https://www.rokomari.com/book,78,0,0
+1695069372424,78,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-30,,true,,876,118,30,30,https://www.rokomari.com/,78,0,0
+1695069372502,535,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-30,text,true,,525553,122,30,30,https://www.rokomari.com/book,201,0,0
+1695069367344,5797,HTTP Request,200,OK,ThreadLoadTestRokomari 1-53,text,true,,526431,240,29,29,https://www.rokomari.com/book,73,0,0
+1695069367344,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-53,,true,,874,118,29,29,https://www.rokomari.com/,73,0,0
+1695069367417,5724,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-53,text,true,,525557,122,29,29,https://www.rokomari.com/book,271,0,0
+1695069371238,1910,HTTP Request,200,OK,ThreadLoadTestRokomari 1-26,text,true,,526432,240,28,28,https://www.rokomari.com/book,80,0,0
+1695069371238,80,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-26,,true,,872,118,28,28,https://www.rokomari.com/,80,0,0
+1695069371318,1830,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-26,text,true,,525560,122,28,28,https://www.rokomari.com/book,582,0,0
+1695069372270,899,HTTP Request,200,OK,ThreadLoadTestRokomari 1-13,text,true,,526431,240,27,27,https://www.rokomari.com/book,74,0,0
+1695069372270,74,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-13,,true,,876,118,27,27,https://www.rokomari.com/,74,0,0
+1695069372344,825,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-13,text,true,,525555,122,27,27,https://www.rokomari.com/book,146,0,0
+1695069363992,9185,HTTP Request,200,OK,ThreadLoadTestRokomari 1-27,text,true,,526439,240,27,27,https://www.rokomari.com/book,73,0,0
+1695069363992,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-27,,true,,872,118,27,27,https://www.rokomari.com/,73,0,0
+1695069364065,9112,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-27,text,true,,525567,122,27,27,https://www.rokomari.com/book,344,0,0
+1695069362184,10996,HTTP Request,200,OK,ThreadLoadTestRokomari 1-2,text,true,,526435,240,26,26,https://www.rokomari.com/book,73,0,0
+1695069362184,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-2,,true,,880,118,26,26,https://www.rokomari.com/,73,0,0
+1695069362257,10923,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-2,text,true,,525555,122,26,26,https://www.rokomari.com/book,342,0,0
+1695069370821,2465,HTTP Request,200,OK,ThreadLoadTestRokomari 1-44,text,true,,526439,240,25,25,https://www.rokomari.com/book,73,0,0
+1695069370821,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-44,,true,,882,118,25,25,https://www.rokomari.com/,73,0,0
+1695069370894,2392,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-44,text,true,,525557,122,25,25,https://www.rokomari.com/book,209,0,0
+1695069372916,537,HTTP Request,200,OK,ThreadLoadTestRokomari 1-25,text,true,,526423,240,25,25,https://www.rokomari.com/book,77,0,0
+1695069372916,77,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-25,,true,,868,118,25,25,https://www.rokomari.com/,77,0,0
+1695069372993,460,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-25,text,true,,525555,122,25,25,https://www.rokomari.com/book,156,0,0
+1695069373169,577,HTTP Request,200,OK,ThreadLoadTestRokomari 1-13,text,true,,526456,240,25,25,https://www.rokomari.com/book,69,0,0
+1695069373169,69,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-13,,true,,888,118,25,25,https://www.rokomari.com/,69,0,0
+1695069373238,508,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-13,text,true,,525568,122,25,25,https://www.rokomari.com/book,127,0,0
+1695069356373,17448,HTTP Request,200,OK,ThreadLoadTestRokomari 1-36,text,true,,526419,240,24,24,https://www.rokomari.com/book,108,0,36
+1695069356373,108,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-36,,true,,874,118,24,24,https://www.rokomari.com/,108,0,36
+1695069356481,17340,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-36,text,true,,525545,122,24,24,https://www.rokomari.com/book,175,0,0
+1695069372060,1858,HTTP Request,200,OK,ThreadLoadTestRokomari 1-68,text,true,,526429,240,24,24,https://www.rokomari.com/book,73,0,0
+1695069372060,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-68,,true,,880,118,24,24,https://www.rokomari.com/,73,0,0
+1695069372133,1785,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-68,text,true,,525549,122,24,24,https://www.rokomari.com/book,181,0,0
+1695069371430,2573,HTTP Request,200,OK,ThreadLoadTestRokomari 1-43,text,true,,526441,240,23,23,https://www.rokomari.com/book,73,0,0
+1695069371430,73,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-43,,true,,876,118,23,23,https://www.rokomari.com/,73,0,0
+1695069371503,2500,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-43,text,true,,525565,122,23,23,https://www.rokomari.com/book,393,0,0
+1695069373454,600,HTTP Request,200,OK,ThreadLoadTestRokomari 1-25,text,true,,526450,240,22,22,https://www.rokomari.com/book,287,0,0
+1695069373454,287,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-25,,true,,878,118,22,22,https://www.rokomari.com/,287,0,0
+1695069373741,313,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-25,text,true,,525572,122,22,22,https://www.rokomari.com/book,122,0,0
+1695069372857,1199,HTTP Request,200,OK,ThreadLoadTestRokomari 1-15,text,true,,526435,240,21,21,https://www.rokomari.com/book,70,0,0
+1695069372857,70,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-15,,true,,872,118,21,21,https://www.rokomari.com/,70,0,0
+1695069372927,1129,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-15,text,true,,525563,122,21,21,https://www.rokomari.com/book,186,0,0
+1695069369189,4911,HTTP Request,200,OK,ThreadLoadTestRokomari 1-21,text,true,,526439,240,20,20,https://www.rokomari.com/book,985,0,0
+1695069369189,985,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-21,,true,,882,118,20,20,https://www.rokomari.com/,985,0,0
+1695069370174,3926,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-21,text,true,,525557,122,20,20,https://www.rokomari.com/book,365,0,0
+1695069369148,5125,HTTP Request,200,OK,ThreadLoadTestRokomari 1-46,text,true,,526421,240,19,19,https://www.rokomari.com/book,327,0,0
+1695069369148,327,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-46,,true,,874,118,19,19,https://www.rokomari.com/,327,0,0
+1695069369475,4798,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-46,text,true,,525547,122,19,19,https://www.rokomari.com/book,311,0,0
+1695069373286,1045,HTTP Request,200,OK,ThreadLoadTestRokomari 1-44,text,true,,526429,240,18,18,https://www.rokomari.com/book,65,0,0
+1695069373286,65,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-44,,true,,874,118,18,18,https://www.rokomari.com/,65,0,0
+1695069373351,980,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-44,text,true,,525555,122,18,18,https://www.rokomari.com/book,189,0,0
+1695069370375,4022,HTTP Request,200,OK,ThreadLoadTestRokomari 1-59,text,true,,526427,240,17,17,https://www.rokomari.com/book,75,0,0
+1695069370375,75,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-59,,true,,874,118,17,17,https://www.rokomari.com/,75,0,0
+1695069370450,3947,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-59,text,true,,525553,122,17,17,https://www.rokomari.com/book,245,0,0
+1695069371564,2852,HTTP Request,200,OK,ThreadLoadTestRokomari 1-20,text,true,,526419,240,16,16,https://www.rokomari.com/book,305,0,0
+1695069371564,305,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-20,,true,,874,118,16,16,https://www.rokomari.com/,305,0,0
+1695069371869,2547,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-20,text,true,,525545,122,16,16,https://www.rokomari.com/book,335,0,0
+1695069373821,629,HTTP Request,200,OK,ThreadLoadTestRokomari 1-36,text,true,,526441,240,16,16,https://www.rokomari.com/book,279,0,0
+1695069373821,279,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-36,,true,,884,118,16,16,https://www.rokomari.com/,279,0,0
+1695069374100,350,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-36,text,true,,525557,122,16,16,https://www.rokomari.com/book,147,0,0
+1695069370158,4442,HTTP Request,200,OK,ThreadLoadTestRokomari 1-23,text,true,,526443,240,16,16,https://www.rokomari.com/book,2754,0,0
+1695069370158,2754,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-23,,true,,876,118,16,16,https://www.rokomari.com/,2754,0,0
+1695069372912,1688,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-23,text,true,,525567,122,16,16,https://www.rokomari.com/book,255,0,0
+1695069374450,320,HTTP Request,200,OK,ThreadLoadTestRokomari 1-36,text,true,,526430,240,16,16,https://www.rokomari.com/book,66,0,0
+1695069374450,66,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-36,,true,,872,118,16,16,https://www.rokomari.com/,66,0,0
+1695069374516,254,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-36,text,true,,525558,122,16,16,https://www.rokomari.com/book,124,0,0
+1695069374416,370,HTTP Request,200,OK,ThreadLoadTestRokomari 1-20,text,true,,526432,240,15,15,https://www.rokomari.com/book,122,0,0
+1695069374416,122,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-20,,true,,874,118,15,15,https://www.rokomari.com/,122,0,0
+1695069374538,248,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-20,text,true,,525558,122,15,15,https://www.rokomari.com/book,144,0,0
+1695069374600,302,HTTP Request,200,OK,ThreadLoadTestRokomari 1-23,text,true,,526445,240,14,14,https://www.rokomari.com/book,63,0,0
+1695069374600,63,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-23,,true,,876,118,14,14,https://www.rokomari.com/,63,0,0
+1695069374663,239,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-23,text,true,,525569,122,14,14,https://www.rokomari.com/book,123,0,0
+1695069360518,14559,HTTP Request,200,OK,ThreadLoadTestRokomari 1-38,text,true,,526431,240,13,13,https://www.rokomari.com/book,14233,0,0
+1695069360518,14233,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-38,,true,,876,118,13,13,https://www.rokomari.com/,14233,0,0
+1695069374752,325,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-38,text,true,,525555,122,13,13,https://www.rokomari.com/book,179,0,0
+1695069371810,3604,HTTP Request,200,OK,ThreadLoadTestRokomari 1-54,text,true,,526421,240,12,12,https://www.rokomari.com/book,86,0,0
+1695069371810,86,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-54,,true,,870,118,12,12,https://www.rokomari.com/,86,0,0
+1695069371896,3518,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-54,text,true,,525551,122,12,12,https://www.rokomari.com/book,330,0,0
+1695069356196,19778,HTTP Request,200,OK,ThreadLoadTestRokomari 1-33,text,true,,526425,240,11,11,https://www.rokomari.com/book,109,0,35
+1695069356196,109,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-33,,true,,878,118,11,11,https://www.rokomari.com/,109,0,35
+1695069356305,19669,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-33,text,true,,525547,122,11,11,https://www.rokomari.com/book,148,0,0
+1695069375974,365,HTTP Request,200,OK,ThreadLoadTestRokomari 1-33,text,true,,526439,240,11,11,https://www.rokomari.com/book,63,0,0
+1695069375974,63,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-33,,true,,880,118,11,11,https://www.rokomari.com/,63,0,0
+1695069376037,302,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-33,text,true,,525559,122,11,11,https://www.rokomari.com/book,158,0,0
+1695069369985,6402,HTTP Request,200,OK,ThreadLoadTestRokomari 1-40,text,true,,526454,240,11,11,https://www.rokomari.com/book,2111,0,0
+1695069369985,2111,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-40,,true,,878,118,11,11,https://www.rokomari.com/,2111,0,0
+1695069372096,4291,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-40,text,true,,525576,122,11,11,https://www.rokomari.com/book,449,0,0
+1695069376339,260,HTTP Request,200,OK,ThreadLoadTestRokomari 1-33,text,true,,526439,240,10,10,https://www.rokomari.com/book,64,0,0
+1695069376339,64,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-33,,true,,876,118,10,10,https://www.rokomari.com/,64,0,0
+1695069376403,196,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-33,text,true,,525563,122,10,10,https://www.rokomari.com/book,118,0,0
+1695069367647,9804,HTTP Request,200,OK,ThreadLoadTestRokomari 1-42,text,true,,526443,240,9,9,https://www.rokomari.com/book,328,0,0
+1695069367647,328,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-42,,true,,884,118,9,9,https://www.rokomari.com/,328,0,0
+1695069367975,9476,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-42,text,true,,525559,122,9,9,https://www.rokomari.com/book,595,0,0
+1695069377451,348,HTTP Request,200,OK,ThreadLoadTestRokomari 1-42,text,true,,526455,240,9,9,https://www.rokomari.com/book,64,0,0
+1695069377451,64,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-42,,true,,880,118,9,9,https://www.rokomari.com/,64,0,0
+1695069377515,284,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-42,text,true,,525575,122,9,9,https://www.rokomari.com/book,132,0,0
+1695069356253,28685,HTTP Request,200,OK,ThreadLoadTestRokomari 1-34,text,true,,526419,240,8,8,https://www.rokomari.com/book,141,0,63
+1695069356253,141,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-34,,true,,872,118,8,8,https://www.rokomari.com/,141,0,63
+1695069356394,28544,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-34,text,true,,525547,122,8,8,https://www.rokomari.com/book,78,0,0
+1695069384938,260,HTTP Request,200,OK,ThreadLoadTestRokomari 1-34,text,true,,526432,240,8,8,https://www.rokomari.com/book,67,0,0
+1695069384938,67,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-34,,true,,876,118,8,8,https://www.rokomari.com/,67,0,0
+1695069385005,193,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-34,text,true,,525556,122,8,8,https://www.rokomari.com/book,117,0,0
+1695069385198,260,HTTP Request,200,OK,ThreadLoadTestRokomari 1-34,text,true,,526433,240,8,8,https://www.rokomari.com/book,62,0,0
+1695069385198,62,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-34,,true,,878,118,8,8,https://www.rokomari.com/,62,0,0
+1695069385260,198,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-34,text,true,,525555,122,8,8,https://www.rokomari.com/book,117,0,0
+1695069357051,28536,HTTP Request,200,OK,ThreadLoadTestRokomari 1-48,text,true,,526441,240,7,7,https://www.rokomari.com/book,334,0,35
+1695069357051,334,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-48,,true,,878,118,7,7,https://www.rokomari.com/,334,0,35
+1695069357385,28202,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-48,text,true,,525563,122,7,7,https://www.rokomari.com/book,100,0,0
+1695069385587,268,HTTP Request,200,OK,ThreadLoadTestRokomari 1-48,text,true,,526437,240,7,7,https://www.rokomari.com/book,72,0,0
+1695069385587,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-48,,true,,872,118,7,7,https://www.rokomari.com/,72,0,0
+1695069385659,196,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-48,text,true,,525565,122,7,7,https://www.rokomari.com/book,124,0,0
+1695069354455,31427,HTTP Request,200,OK,ThreadLoadTestRokomari 1-1,text,true,,526437,240,7,7,https://www.rokomari.com/book,369,0,295
+1695069354455,374,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-1,,true,,878,118,7,7,https://www.rokomari.com/,369,0,295
+1695069354830,31052,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-1,text,true,,525559,122,7,7,https://www.rokomari.com/book,150,0,0
+1695069356538,29384,HTTP Request,200,OK,ThreadLoadTestRokomari 1-39,text,true,,526423,240,7,7,https://www.rokomari.com/book,141,0,58
+1695069356538,141,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-39,,true,,872,118,7,7,https://www.rokomari.com/,141,0,58
+1695069356679,29243,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-39,text,true,,525551,122,7,7,https://www.rokomari.com/book,159,0,0
+1695069385855,269,HTTP Request,200,OK,ThreadLoadTestRokomari 1-48,text,true,,526447,240,7,7,https://www.rokomari.com/book,72,0,0
+1695069385855,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-48,,true,,872,118,7,7,https://www.rokomari.com/,72,0,0
+1695069385927,197,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-48,text,true,,525575,122,7,7,https://www.rokomari.com/book,122,0,0
+1695069385922,261,HTTP Request,200,OK,ThreadLoadTestRokomari 1-39,text,true,,526431,240,6,6,https://www.rokomari.com/book,64,0,0
+1695069385922,64,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-39,,true,,872,118,6,6,https://www.rokomari.com/,64,0,0
+1695069385986,197,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-39,text,true,,525559,122,6,6,https://www.rokomari.com/book,139,0,0
+1695069385882,534,HTTP Request,200,OK,ThreadLoadTestRokomari 1-1,text,true,,526419,240,6,6,https://www.rokomari.com/book,72,0,0
+1695069385882,72,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-1,,true,,870,118,6,6,https://www.rokomari.com/,72,0,0
+1695069385954,462,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-1,text,true,,525549,122,6,6,https://www.rokomari.com/book,184,0,0
+1695069356702,29756,HTTP Request,200,OK,ThreadLoadTestRokomari 1-4,text,true,,526436,240,6,6,https://www.rokomari.com/book,530,0,0
+1695069356702,530,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-4,,true,,870,118,6,6,https://www.rokomari.com/,530,0,0
+1695069357232,29226,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-4,text,true,,525566,122,6,6,https://www.rokomari.com/book,195,0,0
+1695069386184,283,HTTP Request,200,OK,ThreadLoadTestRokomari 1-39,text,true,,526432,240,5,5,https://www.rokomari.com/book,63,0,0
+1695069386184,63,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-39,,true,,878,118,5,5,https://www.rokomari.com/,63,0,0
+1695069386247,220,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-39,text,true,,525554,122,5,5,https://www.rokomari.com/book,161,0,0
+1695069386416,273,HTTP Request,200,OK,ThreadLoadTestRokomari 1-1,text,true,,526435,240,4,4,https://www.rokomari.com/book,65,0,0
+1695069386416,65,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-1,,true,,882,118,4,4,https://www.rokomari.com/,65,0,0
+1695069386481,208,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-1,text,true,,525553,122,4,4,https://www.rokomari.com/book,120,0,0
+1695069357848,29123,HTTP Request,200,OK,ThreadLoadTestRokomari 1-62,text,true,,526431,240,3,3,https://www.rokomari.com/book,326,0,34
+1695069357848,326,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-62,,true,,878,118,3,3,https://www.rokomari.com/,326,0,34
+1695069358174,28797,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-62,text,true,,525553,122,3,3,https://www.rokomari.com/book,806,0,0
+1695069386972,264,HTTP Request,200,OK,ThreadLoadTestRokomari 1-62,text,true,,526438,240,3,3,https://www.rokomari.com/book,63,0,0
+1695069386972,63,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-62,,true,,870,118,3,3,https://www.rokomari.com/,63,0,0
+1695069387035,201,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-62,text,true,,525568,122,3,3,https://www.rokomari.com/book,131,0,0
+1695069387237,260,HTTP Request,200,OK,ThreadLoadTestRokomari 1-62,text,true,,526451,240,3,3,https://www.rokomari.com/book,65,0,0
+1695069387237,65,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-62,,true,,876,118,3,3,https://www.rokomari.com/,65,0,0
+1695069387303,194,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-62,text,true,,525575,122,3,3,https://www.rokomari.com/book,117,0,0
+1695069358021,30020,HTTP Request,200,OK,ThreadLoadTestRokomari 1-65,text,true,,526429,240,2,2,https://www.rokomari.com/book,1355,0,1282
+1695069358021,1355,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-65,,true,,868,118,2,2,https://www.rokomari.com/,1355,0,1282
+1695069359377,28664,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-65,text,true,,525561,122,2,2,https://www.rokomari.com/book,146,0,0
+1695069388041,261,HTTP Request,200,OK,ThreadLoadTestRokomari 1-65,text,true,,526448,240,2,2,https://www.rokomari.com/book,63,0,0
+1695069388041,63,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-65,,true,,876,118,2,2,https://www.rokomari.com/,63,0,0
+1695069388104,198,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-65,text,true,,525572,122,2,2,https://www.rokomari.com/book,121,0,0
+1695069388302,258,HTTP Request,200,OK,ThreadLoadTestRokomari 1-65,text,true,,526423,240,2,2,https://www.rokomari.com/book,63,0,0
+1695069388302,63,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-65,,true,,872,118,2,2,https://www.rokomari.com/,63,0,0
+1695069388365,195,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-65,text,true,,525551,122,2,2,https://www.rokomari.com/book,116,0,0
+1695069357450,57143,HTTP Request,200,OK,ThreadLoadTestRokomari 1-55,text,true,,526439,240,1,1,https://www.rokomari.com/book,440,0,364
+1695069357450,440,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-55,,true,,874,118,1,1,https://www.rokomari.com/,440,0,364
+1695069357890,56703,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-55,text,true,,525565,122,1,1,https://www.rokomari.com/book,148,0,0
+1695069414592,274,HTTP Request,200,OK,ThreadLoadTestRokomari 1-55,text,true,,526438,240,1,1,https://www.rokomari.com/book,69,0,0
+1695069414592,69,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-55,,true,,874,118,1,1,https://www.rokomari.com/,69,0,0
+1695069414661,205,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-55,text,true,,525564,122,1,1,https://www.rokomari.com/book,119,0,0
+1695069414866,262,HTTP Request,200,OK,ThreadLoadTestRokomari 1-55,text,true,,526436,240,1,1,https://www.rokomari.com/book,64,0,0
+1695069414866,64,HTTP Request-0,301,Moved Permanently,ThreadLoadTestRokomari 1-55,,true,,872,118,1,1,https://www.rokomari.com/,64,0,0
+1695069414930,198,HTTP Request-1,200,OK,ThreadLoadTestRokomari 1-55,text,true,,525564,122,1,1,https://www.rokomari.com/book,123,0,0
